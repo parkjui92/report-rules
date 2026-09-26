@@ -1,0 +1,12 @@
+# 개인 데이터 안전망 — 채굴 결과·점검 리포트·원문 파일은 올리지 않는다
+feedback*.md
+all_msgs*.md
+*_규칙점검.md
+_원문자료/
+_sources/
+*.hwp
+*.hwpx
+*.docx
+*.pdf
+__pycache__/
+.DS_Store
